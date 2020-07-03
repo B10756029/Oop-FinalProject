@@ -4,7 +4,7 @@ The system using hash and AES encryption
 
 ## Usage
 
-1.import csharp.sql in your localhost using phpmyadmin version 4.9.1 
+1. import csharp.sql in your localhost using phpmyadmin version 4.9.1 
 
 ```sh
   import csharp.sql;
