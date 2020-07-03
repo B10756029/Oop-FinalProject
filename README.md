@@ -4,10 +4,11 @@
 
 ## Usage
 
-1. Edit the 'LOCKFILE' variable to your 'LeagueClient.exe' path in .env file , the default path is 
-
+1. phpmyadmin version 4.9.1 
+  
+  import csharp.sql in your localserver
 ```sh
-  LOCKFILE=C:\Garena\Games\32775\LeagueClient
+  string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=csharp;";
 ```
 
 2. Install the php package required by this script
