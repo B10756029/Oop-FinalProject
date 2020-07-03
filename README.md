@@ -4,20 +4,24 @@
 
 ## Usage
 
-1. phpmyadmin version 4.9.1 
-    import csharp.sql in your localserver
+1. import csharp.sql in your localhost using phpmyadmin version 4.9.1 
+
 ```sh
-  string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=csharp;";
+  import csharp.sql;
 ```
 
-2. Install the php package required by this script
+2.Change this to the following 
 
 ```sh
-$ composer install
+# string connectionString = "datasource=59.127.254.180;port=3306;username=teacher;password=0000;database=csharp;";
 ```
 
-3. Run the program and feel free
+```sh
+# string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=csharp;";
+```
+
+3. Run the program 
 
 ```sh
-$ php lch.php
+#
 ```
