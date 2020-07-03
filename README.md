@@ -1,6 +1,6 @@
-# LeagueClient Helper
+# Oop-FinalProject
 
-A php script for auto accepting matchmaking in League of Legends
+
 
 ## Usage
 
