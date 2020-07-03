@@ -5,8 +5,7 @@
 ## Usage
 
 1. phpmyadmin version 4.9.1 
-  
-  import csharp.sql in your localserver
+    import csharp.sql in your localserver
 ```sh
   string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=csharp;";
 ```
